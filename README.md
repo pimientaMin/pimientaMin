@@ -25,17 +25,16 @@ Soy un Tester QA y Frontend Developer con una sólida formación en aseguramient
 ## 🛠 Skills 
 
 ###  Hard 🔩
+[![My Skills](https://skillicons.dev/icons?i=postman,selenium,git,github,mysql)](https://skillicons.dev)
 - Jira
 - Zephyr Squad
 - Zephyr Scale
-- Postman
-- Selenium
-- Git 
-- GitHub
 - SOAP UI
 - Api REST
-- MySQL
 
+###  Desing
+[![My Skills](https://skillicons.dev/icons?i=figma,ps,ai)](https://skillicons.dev)
+  
 ### Soft ☁️
 - Analisis de información
 - Trabajo en equipo
